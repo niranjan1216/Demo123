@@ -1,12 +1,15 @@
-# Demo123
-This is My First Repository
+# My Repo for latest projects at INSAID
 
+## Here is the List of all projects
 
-- Point1
-- Point2
+- Finance
+- Accounts
+- Banking
+- Energy
 
-___
+|  [Finance Projects](https://github.com/niranjan1216/Demo123/tree/main/Finance_Project "Finance Projects") | [![Fin](https://www.gettyimages.in/gi-resources/images/500px/983794168.jpg "Fin")](https://www.gettyimages.in/gi-resources/images/500px/983794168.jpg "Fin")  |
+| :------------: | :------------: |
+|  [![Acc](https://www.gettyimages.in/gi-resources/images/500px/983794168.jpg "Acc")](https://www.gettyimages.in/gi-resources/images/500px/983794168.jpg "Acc") | Accounts Projects  |
+| Banking Projects  | [![Ban](https://www.gettyimages.in/gi-resources/images/500px/983794168.jpg "Ban")](https://www.gettyimages.in/gi-resources/images/500px/983794168.jpg "Ban")  |
+|  [![En](https://www.gettyimages.in/gi-resources/images/500px/983794168.jpg "En")](https://www.gettyimages.in/gi-resources/images/500px/983794168.jpg "En") | Energy Projects  |
 
-```
-print("Hello")
-```
