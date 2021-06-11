@@ -13,3 +13,10 @@
 | Banking Projects  | [![Ban](https://www.gettyimages.in/gi-resources/images/500px/983794168.jpg "Ban")](https://www.gettyimages.in/gi-resources/images/500px/983794168.jpg "Ban")  |
 |  [![En](https://www.gettyimages.in/gi-resources/images/500px/983794168.jpg "En")](https://www.gettyimages.in/gi-resources/images/500px/983794168.jpg "En") | Energy Projects  |
 
+
+
+```python
+for i in range(0,100,5)
+	print("Hello")
+print("Done")
+```
